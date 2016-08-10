@@ -3,8 +3,9 @@ A script to transform picture to text, supporting Chinese</br>
 一个将图片转换成文字图的脚本，支持中文</br>
 刚学Python不久，代码不是特别简洁，因为要计算出灰度范围，导致循环了两次</br>
 为了支持中文，必须要使用中文字体</br>
-代码基本每一行都注释了
-
+代码基本每一行都注释了</br>
+效果图：
+![image](preview.jpg)
 # Dependencies 环境依赖
 Python 2.7</br>
 PIL
