@@ -6,6 +6,7 @@ Preview：</br>
 ###Dependencies
 * Python 2.7</br>
 * PIL or Pillow
+
 ###How to use
 If you wanna use your own font,copy the font file to your folder and edit the font name in line 27:</br>
 ```python
